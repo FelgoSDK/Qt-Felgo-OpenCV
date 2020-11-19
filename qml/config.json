@@ -1,0 +1,8 @@
+{
+  "title": "OpenCV Example",
+  "identifier": "com.felgo.demos.OpenCVExample",
+  "orientation": "auto",
+  "versioncode": 1,
+  "versionname": "1.0.0",
+  "stage": "test"
+}

@@ -1,0 +1,16 @@
+# Qt (Felgo) OpenCV Integration
+
+This example shows how to link a Qt 5.15 app with OpenCV and use it from within C++ classes (main.cpp).
+
+The project includes prebuilt OpenCV 4.5.0 libraries for following platforms:
+
+* Windows (MinGW 7.3)
+* Android (armv7a, armv8a, x86, x86_64)
+* iOS (simulator and device)
+
+To run, install Felgo (Qt) from https://felgo.com/download and open the project in Qt Creator.
+
+
+## About Felgo
+
+Felgo extends Qt with 200+ APIs, Unique Tooling and Cloud Services. You can find more information about Felgo and Qt here: https://felgo.com/qt-app-developers
